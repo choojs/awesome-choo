@@ -49,4 +49,4 @@
 * [boxcar](https://github.com/toddself/boxcar): A choo-based grid/spreadsheet editor
 * [choo-sortable](https://github.com/willkessler/choo-sortable): building sortable code with choo
 * [hacker-choo](https://github.com/mw222rs/hacker-choo): hackertyper clone written in choo
-* [footprint-rechoo](https://github.com/npeihl/footprint-rechoo): Rewriting http://github.com/sjcgis/footprint-review with choo because I can
+* [footprint-rechoo](https://github.com/npeihl/footprint-rechoo): A choo rewrite of [footprint-review](http://github.com/sjcgis/footprint-review)
