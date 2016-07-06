@@ -16,6 +16,16 @@
 * [choo website](http://yoshuawuyts.com/www-choo/)
 * [choo Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
+## Dependencies
+
+* [yo-yo](https://github.com/maxogden/yo-yo)
+* [bel](https://github.com/shama/bel)
+* [hyperx](https://github.com/maxogden/yo-yo)
+* [morphdom](https://github.com/patrick-steele-idem/morphdom)
+* [nanoraf](https://github.com/yoshuawuyts/nanoraf)
+* [barracks](https://github.com/yoshuawuyts/barracks)
+* [sheet-router](https://github.com/yoshuawuyts/sheet-router)
+
 ## Demos
 
 * [Input example](http://requirebin.com/?gist=e589473373b3100a6ace29f7bbee3186) - ([repo](https://github.com/yoshuawuyts/choo/tree/master/examples/title))
