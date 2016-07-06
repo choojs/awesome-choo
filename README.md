@@ -11,13 +11,14 @@
 * Demos
 * Community
 * Projects using choo
- 
+
 ### Oficial resources
 
 * [Choo docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
 * [Choo handbook](https://github.com/yoshuawuyts/choo-handbook)
 * [Choo website](http://yoshuawuyts.com/www-choo/)
- 
+* [Choo twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
+
 ### Demos
 
 * [Input example](http://requirebin.com/?gist=e589473373b3100a6ace29f7bbee3186)([repo](https://github.com/yoshuawuyts/choo/tree/master/examples/title))
@@ -30,6 +31,18 @@
 ### Community
 
 * [freenode](https://webchat.freenode.net/?channels=choo)
+
+### Tutorials
+
+* [Your first choo app](https://github.com/yoshuawuyts/choo-handbook/blob/master/your-first-app.md)
+
+### Videos
+
+* [TCBY community live hangout](https://www.youtube.com/watch?v=a97Mw2z1SAI)
+
+### Articles
+
+* [A better frontend experience](https://medium.com/@yoshuawuyts/a-better-frontend-experience-7b0498c85658)
 
 ### Projects using choo
 
