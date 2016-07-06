@@ -5,6 +5,7 @@
 ## Table of Contents
 
 * [Official resources](#official-resources)
+* [Dependencies](#dependencies)
 * [Demos](#demos)
 * [Community](#community)
 * [Projects using choo](#projects-using-choo)
