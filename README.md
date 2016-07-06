@@ -14,19 +14,19 @@
 
 ### Oficial resources
 
-* [Choo docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
-* [Choo handbook](https://github.com/yoshuawuyts/choo-handbook)
-* [Choo website](http://yoshuawuyts.com/www-choo/)
-* [Choo twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
+* [choo docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
+* [choo handbook](https://github.com/yoshuawuyts/choo-handbook)
+* [choo website](http://yoshuawuyts.com/www-choo/)
+* [choo Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
 ### Demos
 
-* [Input example](http://requirebin.com/?gist=e589473373b3100a6ace29f7bbee3186)([repo](https://github.com/yoshuawuyts/choo/tree/master/examples/title))
-* [Http effects](https://hyperdev.com/#!/project/fork-fang)
+* [Input example](http://requirebin.com/?gist=e589473373b3100a6ace29f7bbee3186) - ([repo](https://github.com/yoshuawuyts/choo/tree/master/examples/title))
+* [HTTP effects](https://hyperdev.com/#!/project/fork-fang)
 * [Mailbox routing](https://github.com/yoshuawuyts/choo/tree/master/examples/mailbox)
-* [TodoMVC](http://shuheikagawa.com/todomvc-choo/)([repo](https://github.com/shuhei/todomvc-choo))
-* [Choo-firebase](https://github.com/mw222rs/choo-firebase)
-* [Grow](https://grow.static.land/)([repo](https://github.com/sethvincent/grow))
+* [TodoMVC](http://shuheikagawa.com/todomvc-choo/) - ([repo](https://github.com/shuhei/todomvc-choo))
+* [choo-firebase](https://github.com/mw222rs/choo-firebase)
+* [Grow](https://grow.static.land/) - ([repo](https://github.com/sethvincent/grow))
 
 ### Community
 
@@ -49,4 +49,4 @@
 * [boxcar](https://github.com/toddself/boxcar): A choo-based grid/spreadsheet editor
 * [choo-sortable](https://github.com/willkessler/choo-sortable): building sortable code with choo
 * [hacker-choo](https://github.com/mw222rs/hacker-choo): hackertyper clone written in choo
-* [footprint-rechoo](https://github.com/npeihl/footprint-rechoo): Rewriting http://github.com/sjcgis/footprint-review with Choo because I can
+* [footprint-rechoo](https://github.com/npeihl/footprint-rechoo): Rewriting http://github.com/sjcgis/footprint-review with choo because I can
