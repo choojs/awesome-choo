@@ -51,6 +51,8 @@
 ## Articles
 
 * [A better frontend experience](https://medium.com/@yoshuawuyts/a-better-frontend-experience-7b0498c85658)
+* [Composition in CycleJS, Choo, React and Angular2](http://blog.krawaller.se/posts/composition-in-cyclejs-choo-react-and-angular2/)
+* [Stupidly smart components in Choo](http://blog.krawaller.se/posts/stupidly-smart-components-in-choo/)
 
 ## Projects using choo
 
