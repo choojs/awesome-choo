@@ -35,8 +35,7 @@
 * [TodoMVC](http://shuheikagawa.com/todomvc-choo/) - ([repo](https://github.com/shuhei/todomvc-choo))
 * [choo-firebase](https://github.com/mw222rs/choo-firebase)
 * [Grow](https://grow.static.land/) - ([repo](https://github.com/sethvincent/grow))
-* [Chat (choo/tachyons/sse)](https://choo-chat-biqtmjdyhe.now.sh) - ([code](https://choo-chat-qvhxjdljbi.now.sh/_src))
-* [Chat (choo/tachyons/socketio)](https://choo-chat-socket-io-oaxvzlpgpx.now.sh/) - ([code](https://choo-chat-socket-io-oaxvzlpgpx.now.sh/_src)
+* [Chatbot](http://chootbot.herokuapp.com/) - ([repo](https://github.com/play/chootbot))
 
 ## Community
 
