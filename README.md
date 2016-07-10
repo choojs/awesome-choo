@@ -33,7 +33,7 @@
 * [HTTP effects](https://hyperdev.com/#!/project/fork-fang)
 * [Mailbox routing](https://github.com/yoshuawuyts/choo/tree/master/examples/mailbox)
 * [TodoMVC](http://shuheikagawa.com/todomvc-choo) - ([repo](https://github.com/shuhei/todomvc-choo))
-* [choo-firebase](https://github.com/mw222rs/choo-firebase)
+* [choo-firebase](https://choo-firebase-2ec21.firebaseapp.com/) - ([repo](https://github.com/mw222rs/choo-firebase))
 * [Grow](https://grow.static.land) - ([repo](https://github.com/sethvincent/grow))
 * [Chatbot](http://chootbot.herokuapp.com) - ([repo](https://github.com/plaey/chatbot))
 
