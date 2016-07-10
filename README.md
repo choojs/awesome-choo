@@ -14,7 +14,7 @@
 
 * [choo docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
 * [choo handbook](https://github.com/yoshuawuyts/choo-handbook)
-* [choo website](http://yoshuawuyts.com/www-choo/)
+* [choo website](http://yoshuawuyts.com/www-choo)
 * [choo Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
 ## Dependencies
@@ -32,10 +32,10 @@
 * [Input example](http://requirebin.com/?gist=e589473373b3100a6ace29f7bbee3186) - ([repo](https://github.com/yoshuawuyts/choo/tree/master/examples/title))
 * [HTTP effects](https://hyperdev.com/#!/project/fork-fang)
 * [Mailbox routing](https://github.com/yoshuawuyts/choo/tree/master/examples/mailbox)
-* [TodoMVC](http://shuheikagawa.com/todomvc-choo/) - ([repo](https://github.com/shuhei/todomvc-choo))
+* [TodoMVC](http://shuheikagawa.com/todomvc-choo) - ([repo](https://github.com/shuhei/todomvc-choo))
 * [choo-firebase](https://github.com/mw222rs/choo-firebase)
-* [Grow](https://grow.static.land/) - ([repo](https://github.com/sethvincent/grow))
-* [Chatbot](http://chootbot.herokuapp.com/) - ([repo](https://github.com/plaey/chatbot))
+* [Grow](https://grow.static.land) - ([repo](https://github.com/sethvincent/grow))
+* [Chatbot](http://chootbot.herokuapp.com) - ([repo](https://github.com/plaey/chatbot))
 
 ## Community
 
@@ -52,8 +52,8 @@
 ## Articles
 
 * [A better frontend experience](https://medium.com/@yoshuawuyts/a-better-frontend-experience-7b0498c85658)
-* [Composition in CycleJS, choo, React and Angular2](http://blog.krawaller.se/posts/composition-in-cyclejs-choo-react-and-angular2/)
-* [Stupidly smart components in choo](http://blog.krawaller.se/posts/stupidly-smart-components-in-choo/)
+* [Composition in CycleJS, choo, React and Angular2](http://blog.krawaller.se/posts/composition-in-cyclejs-choo-react-and-angular2)
+* [Stupidly smart components in choo](http://blog.krawaller.se/posts/stupidly-smart-components-in-choo)
 
 ## Projects using choo
 
@@ -62,4 +62,4 @@
 * [hacker-choo](https://github.com/mw222rs/hacker-choo) - Hacker Typer clone written in choo
 * [footprint-rechoo](https://github.com/npeihl/footprint-rechoo) - A choo rewrite of [footprint-review](http://github.com/sjcgis/footprint-review)
 * [minidocs](https://github.com/freeman-lab/minidocs) – A documentation site generator built with choo
-* [dataface](https://github.com/timwis/dataface/) - Desktop application to manage databases
+* [dataface](https://github.com/timwis/dataface) - Desktop application to manage databases
