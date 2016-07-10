@@ -35,7 +35,7 @@
 * [TodoMVC](http://shuheikagawa.com/todomvc-choo/) - ([repo](https://github.com/shuhei/todomvc-choo))
 * [choo-firebase](https://github.com/mw222rs/choo-firebase)
 * [Grow](https://grow.static.land/) - ([repo](https://github.com/sethvincent/grow))
-* [Chatbot](http://chootbot.herokuapp.com/) - ([repo](https://github.com/play/chootbot))
+* [Chatbot](http://chootbot.herokuapp.com/) - ([repo](https://github.com/plaey/chatbot))
 
 ## Community
 
