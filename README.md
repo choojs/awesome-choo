@@ -61,3 +61,4 @@
 * [hacker-choo](https://github.com/mw222rs/hacker-choo) - Hacker Typer clone written in choo
 * [footprint-rechoo](https://github.com/npeihl/footprint-rechoo) - A choo rewrite of [footprint-review](http://github.com/sjcgis/footprint-review)
 * [minidocs](https://github.com/freeman-lab/minidocs) – A documentation site generator built with choo
+* [dataface](https://github.com/timwis/dataface/) - Desktop application to manage databases
