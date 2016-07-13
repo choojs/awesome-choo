@@ -63,3 +63,9 @@
 * [footprint-rechoo](https://github.com/npeihl/footprint-rechoo) - A choo rewrite of [footprint-review](http://github.com/sjcgis/footprint-review)
 * [minidocs](https://github.com/freeman-lab/minidocs) – A documentation site generator built with choo
 * [dataface](https://github.com/timwis/dataface) - Desktop application to manage databases
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Yerko Palma](https://github.com/YerkoPalma) has waived all copyright and related or neighboring rights to this work.
