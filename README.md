@@ -8,6 +8,9 @@
 * [Dependencies](#dependencies)
 * [Demos](#demos)
 * [Community](#community)
+* [Tutorials](#tutorials)
+* [Videos](#videos)
+* [Articles](#articles)
 * [Projects using choo](#projects-using-choo)
 
 ## Official resources
