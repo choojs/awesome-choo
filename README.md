@@ -8,19 +8,17 @@
 * [Dependencies](#dependencies)
 * [Demos](#demos)
 * [Community](#community)
-* [Tutorials](#tutorials)
-* [Videos](#videos)
-* [Articles](#articles)
+* [Resources](#resources)
 * [Projects using choo](#projects-using-choo)
 
-## Official resources
+### Official resources
 
 * [choo docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
 * [choo handbook](https://github.com/yoshuawuyts/choo-handbook)
 * [choo website](http://yoshuawuyts.com/www-choo)
 * [choo Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
-## Dependencies
+### Dependencies
 
 * [yo-yo](https://github.com/maxogden/yo-yo)
 * [bel](https://github.com/shama/bel)
@@ -30,7 +28,7 @@
 * [barracks](https://github.com/yoshuawuyts/barracks)
 * [sheet-router](https://github.com/yoshuawuyts/sheet-router)
 
-## Demos
+### Demos
 
 * [Input example](http://requirebin.com/?gist=e589473373b3100a6ace29f7bbee3186) - ([repo](https://github.com/yoshuawuyts/choo/tree/master/examples/title))
 * [HTTP effects](https://hyperdev.com/#!/project/fork-fang)
@@ -40,25 +38,22 @@
 * [Grow](https://grow.static.land) - ([repo](https://github.com/sethvincent/grow))
 * [Chatbot](http://chootbot.herokuapp.com) - ([repo](https://github.com/plaey/chatbot))
 
-## Community
+### Community
 
 * [freenode](https://webchat.freenode.net/?channels=choo)
 
-## Tutorials
+### Resources
+> :movie_camera: : videos
+> :computer: : tutorials
+> :book: : articles
 
-* [Your first choo app](https://github.com/yoshuawuyts/choo-handbook/blob/master/your-first-app.md)
+* :computer: [Your first choo app](https://github.com/yoshuawuyts/choo-handbook/blob/master/your-first-app.md)
+* :movie_camera: [TCBY community live hangout](https://www.youtube.com/watch?v=a97Mw2z1SAI)
+* :book: [A better frontend experience](https://medium.com/@yoshuawuyts/a-better-frontend-experience-7b0498c85658)
+* :book: [Composition in CycleJS, choo, React and Angular2](http://blog.krawaller.se/posts/composition-in-cyclejs-choo-react-and-angular2)
+* :book: [Stupidly smart components in choo](http://blog.krawaller.se/posts/stupidly-smart-components-in-choo)
 
-## Videos
-
-* [TCBY community live hangout](https://www.youtube.com/watch?v=a97Mw2z1SAI)
-
-## Articles
-
-* [A better frontend experience](https://medium.com/@yoshuawuyts/a-better-frontend-experience-7b0498c85658)
-* [Composition in CycleJS, choo, React and Angular2](http://blog.krawaller.se/posts/composition-in-cyclejs-choo-react-and-angular2)
-* [Stupidly smart components in choo](http://blog.krawaller.se/posts/stupidly-smart-components-in-choo)
-
-## Projects using choo
+### Projects using choo
 
 * [boxcar](https://github.com/toddself/boxcar) - A choo-based grid/spreadsheet editor
 * [choo-sortable](https://github.com/willkessler/choo-sortable) - Building sortable code with choo
@@ -67,7 +62,7 @@
 * [minidocs](https://github.com/freeman-lab/minidocs) – A documentation site generator built with choo
 * [dataface](https://github.com/timwis/dataface) - Desktop application to manage databases
 
-## License
+### License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
