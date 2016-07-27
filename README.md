@@ -1,6 +1,7 @@
 # Awesome choo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <div align="right">:steam_locomotive::train::train::train::train::train:</div>
 
-> choo is a `5kb` framework for creating sturdy frontend applications
+> [choo](http://yoshuawuyts.com/www-choo) is a `5kb` framework for creating
+> sturdy frontend applications
 
 ## Table of Contents
 
@@ -13,20 +14,29 @@
 
 ### Official resources
 
-* [choo docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
-* [choo handbook](https://github.com/yoshuawuyts/choo-handbook)
-* [choo website](http://yoshuawuyts.com/www-choo)
-* [choo Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
+* [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
+* [Handbook](https://github.com/yoshuawuyts/choo-handbook)
+* [Repo](https://github.com/yoshuawuyts/choo)
+* [Website](http://yoshuawuyts.com/www-choo)
+* [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
 ### Dependencies
+`choo` is a modular framework. These are the dependencies it glues together
+under the hood:
 
-* [yo-yo](https://github.com/maxogden/yo-yo)
-* [bel](https://github.com/shama/bel)
-* [hyperx](https://github.com/maxogden/yo-yo)
-* [morphdom](https://github.com/patrick-steele-idem/morphdom)
-* [nanoraf](https://github.com/yoshuawuyts/nanoraf)
-* [barracks](https://github.com/yoshuawuyts/barracks)
-* [sheet-router](https://github.com/yoshuawuyts/sheet-router)
+* [yo-yo](https://github.com/maxogden/yo-yo) - modular UI library using DOM
+  diffing and ES6 template strings
+* [bel](https://github.com/shama/bel) - create composable DOM elements using
+  template strings
+* [hyperx](https://github.com/maxogden/yo-yo) - convert template strings to
+  library backends
+* [morphdom](https://github.com/patrick-steele-idem/morphdom) - Fast and
+  lightweight DOM diffing/patching (without the virtual part)
+* [nanoraf](https://github.com/yoshuawuyts/nanoraf) - only call RAF when needed
+* [barracks](https://github.com/yoshuawuyts/barracks) - action dispatcher for
+  unidirectional data flows
+* [sheet-router](https://github.com/yoshuawuyts/sheet-router) - fast, modular
+  client-side router
 
 ### Demos
 
@@ -34,13 +44,13 @@
 * [HTTP effects](https://hyperdev.com/#!/project/fork-fang)
 * [Mailbox routing](https://github.com/yoshuawuyts/choo/tree/master/examples/mailbox)
 * [TodoMVC](http://shuheikagawa.com/todomvc-choo) - ([repo](https://github.com/shuhei/todomvc-choo))
-* [choo-firebase](https://choo-firebase-2ec21.firebaseapp.com/) - ([repo](https://github.com/mw222rs/choo-firebase))
+* [Choo-firebase](https://choo-firebase-2ec21.firebaseapp.com/) - ([repo](https://github.com/mw222rs/choo-firebase))
 * [Grow](https://grow.static.land) - ([repo](https://github.com/sethvincent/grow))
 * [Chatbot](http://chootbot.herokuapp.com) - ([repo](https://github.com/plaey/chatbot))
 
 ### Community
 
-* [freenode](https://webchat.freenode.net/?channels=choo)
+* [Freenode](https://webchat.freenode.net/?channels=choo)
 
 ### Resources
 > :movie_camera: : videos
