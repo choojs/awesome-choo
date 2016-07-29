@@ -28,7 +28,7 @@ under the hood:
   diffing and ES6 template strings
 * [bel](https://github.com/shama/bel) - create composable DOM elements using
   template strings
-* [hyperx](https://github.com/maxogden/yo-yo) - convert template strings to
+* [hyperx](https://github.com/substack/hyperx) - convert template strings to
   library backends
 * [morphdom](https://github.com/patrick-steele-idem/morphdom) - Fast and
   lightweight DOM diffing/patching (without the virtual part)
