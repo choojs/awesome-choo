@@ -3,7 +3,7 @@
 > [choo](http://yoshuawuyts.com/www-choo) is a `5kb` framework for creating
 > sturdy frontend applications
 
-## Table of Contents
+## Contents
 
 - [Official resources](#official-resources)
 - [Dependencies](#dependencies)
@@ -24,19 +24,19 @@
 `choo` is a modular framework. These are the dependencies it glues together
 under the hood:
 
-- [yo-yo](https://github.com/maxogden/yo-yo) - modular UI library using DOM
-  diffing and ES6 template strings
-- [bel](https://github.com/shama/bel) - create composable DOM elements using
-  template strings
-- [hyperx](https://github.com/substack/hyperx) - convert template strings to
-  library backends
+- [yo-yo](https://github.com/maxogden/yo-yo) - Modular UI library using DOM
+  diffing and ES6 template strings.
+- [bel](https://github.com/shama/bel) - Create composable DOM elements using
+  template strings.
+- [hyperx](https://github.com/substack/hyperx) - Convert template strings to
+  library backends.
 - [morphdom](https://github.com/patrick-steele-idem/morphdom) - Fast and
-  lightweight DOM diffing/patching (without the virtual part)
-- [nanoraf](https://github.com/yoshuawuyts/nanoraf) - only call RAF when needed
-- [barracks](https://github.com/yoshuawuyts/barracks) - action dispatcher for
-  unidirectional data flows
-- [sheet-router](https://github.com/yoshuawuyts/sheet-router) - fast, modular
-  client-side router
+  lightweight DOM diffing/patching (without the virtual part).
+- [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed.
+- [barracks](https://github.com/yoshuawuyts/barracks) - Action dispatcher for
+  unidirectional data flows.
+- [sheet-router](https://github.com/yoshuawuyts/sheet-router) - Fast, modular
+  client-side router.
 
 ### Demos
 
@@ -65,13 +65,13 @@ under the hood:
 
 ### Projects using choo
 
-- [boxcar](https://github.com/toddself/boxcar) - A choo-based grid/spreadsheet editor
-- [choo-sortable](https://github.com/willkessler/choo-sortable) - Building sortable code with choo
-- [hacker-choo](https://github.com/mw222rs/hacker-choo) - Hacker Typer clone written in choo
-- [footprint-rechoo](https://github.com/npeihl/footprint-rechoo) - A choo rewrite of [footprint-review](http://github.com/sjcgis/footprint-review)
-- [minidocs](https://github.com/freeman-lab/minidocs) – A documentation site generator built with choo
-- [dataface](https://github.com/timwis/dataface) - Desktop application to manage databases
-- [BlankUp](https://github.com/HoverBaum/BlankUp-Electron) - Multiplatform markdown editor
+- [boxcar](https://github.com/toddself/boxcar) - A choo-based grid/spreadsheet editor.
+- [choo-sortable](https://github.com/willkessler/choo-sortable) - Building sortable code with choo.
+- [hacker-choo](https://github.com/mw222rs/hacker-choo) - Hacker Typer clone written in choo.
+- [footprint-rechoo](https://github.com/npeihl/footprint-rechoo) - A choo rewrite of [footprint-review](http://github.com/sjcgis/footprint-review).
+- [minidocs](https://github.com/freeman-lab/minidocs) – A documentation site generator built with choo.
+- [dataface](https://github.com/timwis/dataface) - Desktop application to manage databases.
+- [BlankUp](https://github.com/HoverBaum/BlankUp-Electron) - Multiplatform markdown editor.
 
 ### License
 
