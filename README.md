@@ -52,6 +52,10 @@ under the hood:
 
 - [Freenode](https://webchat.freenode.net/?channels=choo)
 
+### Electron
+
+- [choo-location-electron](https://github.com/bcomnes/choo-location-electron) - Fix `choo`'s router in electron.
+
 ### Resources
 > :movie_camera: : videos
 > :computer: : tutorials
