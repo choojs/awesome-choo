@@ -76,6 +76,7 @@ under the hood:
 - [minidocs](https://github.com/freeman-lab/minidocs) – A documentation site generator built with choo.
 - [dataface](https://github.com/timwis/dataface) - Desktop application to manage databases.
 - [BlankUp](https://github.com/HoverBaum/BlankUp-Electron) - Multiplatform markdown editor.
+- [hackernews-choo](https://github.com/kvnneff/hackernews-choo) - A Hacker News reader built with choo.
 
 ### License
 
