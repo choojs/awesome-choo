@@ -9,6 +9,7 @@
 - [Dependencies](#dependencies)
 - [Demos](#demos)
 - [Community](#community)
+- [Plugins and addons](#plugins-and-addons)
 - [Resources](#resources)
 - [Projects using choo](#projects-using-choo)
 
@@ -52,9 +53,10 @@ under the hood:
 
 - [Freenode](https://webchat.freenode.net/?channels=choo)
 
-### Electron
+### Plugins and addons
 
 - [choo-location-electron](https://github.com/bcomnes/choo-location-electron) - Fix `choo`'s router in electron.
+- [choo-log](https://github.com/yoshuawuyts/choo-log) - Development logger for choo.
 
 ### Resources
 > :movie_camera: : videos
