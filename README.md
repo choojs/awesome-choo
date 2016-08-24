@@ -57,6 +57,7 @@ under the hood:
 
 - [choo-location-electron](https://github.com/bcomnes/choo-location-electron) - Fix `choo`'s router in electron.
 - [choo-log](https://github.com/yoshuawuyts/choo-log) - Development logger for choo.
+- [choo-test](https://github.com/mantoni/choo-test) - Easy choo app unit testing.
 
 ### Resources
 > :movie_camera: : videos
