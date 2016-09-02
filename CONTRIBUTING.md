@@ -11,7 +11,7 @@ Ensure your pull request adheres to the following guidelines:
 - If you just created something, wait at least a couple of weeks before submitting
 - You should of course have read or used the thing you're submitting
 - Make an individual pull request for each suggestion
-- Use the following format: `[name](link) - Description`, notice there's no period at the end
+- Use the following format: `[name](link) - Description`
 - Keep descriptions short and simple, but descriptive
 - Start the description with a capital and end with a full stop/period
 - Check your spelling and grammar
