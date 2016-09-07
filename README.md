@@ -59,6 +59,10 @@ under the hood:
 - [choo-log](https://github.com/yoshuawuyts/choo-log) - Development logger for choo.
 - [choo-test](https://github.com/mantoni/choo-test) - Easy choo app unit testing.
 
+### Elements
+
+- [dom-notifications](https://github.com/finnp/dom-notifications) - Atom-inspired notifications component
+
 ### Resources
 > :movie_camera: : videos
 > :computer: : tutorials
