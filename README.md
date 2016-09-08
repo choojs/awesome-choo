@@ -10,6 +10,7 @@
 - [Demos](#demos)
 - [Community](#community)
 - [Plugins and addons](#plugins-and-addons)
+- [Elements](#elements)
 - [Resources](#resources)
 - [Projects using choo](#projects-using-choo)
 
@@ -58,11 +59,12 @@ under the hood:
 - [choo-location-electron](https://github.com/bcomnes/choo-location-electron) - Fix `choo`'s router in electron.
 - [choo-log](https://github.com/yoshuawuyts/choo-log) - Development logger for choo.
 - [choo-test](https://github.com/mantoni/choo-test) - Easy choo app unit testing.
-- [choo-persist](https://github.com/yoshuawuyts/choo-persist/) - Synchronize choo state with indexedDB
+- [choo-persist](https://github.com/yoshuawuyts/choo-persist/) - Synchronize choo state with indexedDB.
 
 ### Elements
 
-- [dom-notifications](https://github.com/finnp/dom-notifications) - Atom-inspired notifications component
+- [dom-notifications](https://github.com/finnp/dom-notifications) - Atom-inspired notifications component.
+- [choodown](https://github.com/trainyard/choodown) - A simple markdown component for choo.
 
 ### Resources
 > :movie_camera: : videos
