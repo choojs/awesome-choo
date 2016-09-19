@@ -87,6 +87,7 @@ under the hood:
 - [dataface](https://github.com/timwis/dataface) - Desktop application to manage databases.
 - [BlankUp](https://github.com/HoverBaum/BlankUp-Electron) - Multiplatform markdown editor.
 - [hackernews-choo](https://github.com/kvnneff/hackernews-choo) - A Hacker News reader built with choo.
+- [tic-tac-choo](https://github.com/YerkoPalma/tic-tac-toe) - Progressive tic tac toe game, made with choo.
 
 ### License
 
