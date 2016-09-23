@@ -89,6 +89,7 @@ under the hood:
 - [BlankUp](https://github.com/HoverBaum/BlankUp-Electron) - Multiplatform markdown editor.
 - [hackernews-choo](https://github.com/kvnneff/hackernews-choo) - A Hacker News reader built with choo.
 - [tic-tac-choo](https://github.com/YerkoPalma/tic-tac-toe) - Progressive tic tac toe game, made with choo.
+- [enviar](https://github.com/timwis/enviar) - Chat interface for SMS / text messages
 
 ### License
 
