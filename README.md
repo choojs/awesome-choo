@@ -72,7 +72,7 @@ under the hood:
 > :computer: : tutorials
 > :book: : articles
 
-- :computer: [Your first choo app](https://yoshuawuyts.gitbooks.io/choo/content/getting-started/your-first-app.html)
+- :computer: [Your first choo app](https://yoshuawuyts.gitbooks.io/choo/content/02_your_first_app.html)
 - :movie_camera: [TCBY community live hangout](https://www.youtube.com/watch?v=a97Mw2z1SAI)
 - :book: [A better frontend experience](https://medium.com/@yoshuawuyts/a-better-frontend-experience-7b0498c85658)
 - :book: [Composition in CycleJS, choo, React and Angular2](http://blog.krawaller.se/posts/composition-in-cyclejs-choo-react-and-angular2)
