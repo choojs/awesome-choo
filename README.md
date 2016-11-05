@@ -50,6 +50,7 @@ under the hood:
 - [Grow](https://grow.static.land) - ([repo](https://github.com/sethvincent/grow))
 - [Chatbot](http://chootbot.herokuapp.com) - ([repo](https://github.com/plaey/chatbot))
 - [chat-random](https://github.com/akiva/chat-random)
+- [choo-leaflet-demo](https://github.com/timwis/choo-leaflet-demo)
 
 ### Community
 
