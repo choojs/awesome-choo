@@ -91,6 +91,7 @@ under the hood:
 - [hackernews-choo](https://github.com/kvnneff/hackernews-choo) - A Hacker News reader built with choo.
 - [tic-tac-choo](https://github.com/YerkoPalma/tic-tac-toe) - Progressive tic tac toe game, made with choo.
 - [enviar](https://github.com/timwis/enviar) - Chat interface for SMS / text messages
+- [kaktus](https://github.com/kaktus/kaktus) - A new minimalistic web browser, built on `choo` and IndexedDB
 
 ### License
 
