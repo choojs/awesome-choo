@@ -1,6 +1,6 @@
 # Awesome choo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <div align="right">:steam_locomotive::train::train::train::train::train:</div>
 
-> [choo](http://yoshuawuyts.com/www-choo) is a `5kb` framework for creating
+> [choo](https://choo.io/) is a `5kb` framework for creating
 > sturdy frontend applications
 
 ## Contents
@@ -19,7 +19,7 @@
 - [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
 - [Handbook](https://github.com/yoshuawuyts/choo-handbook)
 - [Repo](https://github.com/yoshuawuyts/choo)
-- [Website](http://yoshuawuyts.com/www-choo)
+- [Website](https://choo.io/)
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
 ### Dependencies
