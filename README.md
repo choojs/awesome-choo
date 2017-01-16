@@ -11,6 +11,7 @@
 - [Community](#community)
 - [Plugins and addons](#plugins-and-addons)
 - [Elements](#elements)
+- [CLI Templates](#cli-templates)
 - [Resources](#resources)
 - [Projects using choo](#projects-using-choo)
 
@@ -67,6 +68,13 @@ under the hood:
 
 - [dom-notifications](https://github.com/finnp/dom-notifications) - Atom-inspired notifications component.
 - [choodown](https://github.com/trainyard/choodown) - A simple markdown component for choo.
+
+### CLI Templates
+
+Templates for [choo-cli](https://github.com/trainyard/choo-cli)
+
+- [trainyard/template-basic](https://github.com/trainyard/template-basic)
+- [haroenv/template-webpack](https://github.com/haroenv/template-webpack)
 
 ### Resources
 > :movie_camera: : videos
