@@ -68,6 +68,7 @@ under the hood:
 
 - [dom-notifications](https://github.com/finnp/dom-notifications) - Atom-inspired notifications component.
 - [choodown](https://github.com/trainyard/choodown) - A simple markdown component for choo.
+- [choo-md-editor](https://github.com/dbtek/choo-md-editor) - Lightweight markdown editor that can be used inside Choo app or as a standalone library.
 
 ### CLI Templates
 
