@@ -63,6 +63,7 @@ under the hood:
 - [choo-log](https://github.com/yoshuawuyts/choo-log) - Development logger for choo.
 - [choo-test](https://github.com/mantoni/choo-test) - Easy choo app unit testing.
 - [choo-persist](https://github.com/yoshuawuyts/choo-persist/) - Synchronize choo state with indexedDB.
+- [choo-promise](https://github.com/rahatarmanahmed/choo-promise) - Use promises in effects and subscriptions.
 
 ### Elements
 
