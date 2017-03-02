@@ -74,6 +74,7 @@ under the hood:
 - [dom-notifications](https://github.com/finnp/dom-notifications) - Atom-inspired notifications component.
 - [choodown](https://github.com/trainyard/choodown) - A simple markdown component for choo.
 - [choo-md-editor](https://github.com/dbtek/choo-md-editor) - Lightweight markdown editor that can be used inside Choo app or as a standalone library.
+- [choo-chartist](https://github.com/rexmortus/choo-chartist) - A little component for using [Chartist](https://gionkunz.github.io/chartist-js/) with the choo framework.
 
 ### CLI Templates
 
