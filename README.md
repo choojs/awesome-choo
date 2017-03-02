@@ -106,6 +106,8 @@ Templates for [choo-cli](https://github.com/trainyard/choo-cli)
 - [tic-tac-choo](https://github.com/YerkoPalma/tic-tac-toe) - Progressive tic tac toe game, made with choo.
 - [enviar](https://github.com/timwis/enviar) - Chat interface for SMS / text messages.
 - [kaktus](https://github.com/kaktus/kaktus) - A new minimalistic web browser, built on `choo` and IndexedDB.
+- [civicdr.org](https://github.com/CiviCDR/civicdr.org) - Website for [CiviCDR](https://civicdr.org/).
+- [nekocafe](https://github.com/notenoughneon/nekocafe) - Web chat room :cat: :speech_balloon:.
 
 ### License
 
