@@ -1,6 +1,6 @@
 # Awesome choo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <div align="right">:steam_locomotive::train::train::train::train::train:</div>
 
-> [choo](https://choo.io/) is a `5kb` framework for creating
+> [choo](https://choo.io/) is a `4kb` framework for creating
 > sturdy frontend applications
 
 ## Contents
@@ -27,19 +27,18 @@
 `choo` is a modular framework. These are the dependencies it glues together
 under the hood:
 
-- [yo-yo](https://github.com/maxogden/yo-yo) - Modular UI library using DOM
-  diffing and ES6 template strings.
 - [bel](https://github.com/shama/bel) - Create composable DOM elements using
   template strings.
 - [hyperx](https://github.com/substack/hyperx) - Convert template strings to
   library backends.
-- [morphdom](https://github.com/patrick-steele-idem/morphdom) - Fast and
-  lightweight DOM diffing/patching (without the virtual part).
+- [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes.
 - [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed.
-- [barracks](https://github.com/yoshuawuyts/barracks) - Action dispatcher for
-  unidirectional data flows.
-- [sheet-router](https://github.com/yoshuawuyts/sheet-router) - Fast, modular
-  client-side router.
+- [nanorouter](https://github.com/choojs/nanorouter) - Smol frontend router.
+- [nanobus](https://github.com/choojs/nanobus) - Tiny message bus.
+- [nanolocation](https://github.com/choojs/nanolocation) - Small window.location library.
+- [nanohref](https://github.com/choojs/nanohref) - Tiny href click handler library.
+- [nanoquery](https://github.com/choojs/nanoquery) - Tiny querystring module.
+- [nanotiming](https://github.com/choojs/nanotiming) - Small timing library.
 
 ### Demos
 
