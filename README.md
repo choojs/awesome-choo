@@ -67,7 +67,7 @@ under the hood:
 - [choo-redirect](https://github.com/yoshuawuyts/choo-redirect) - Redirect a view to another view.
 - [choo-model](https://github.com/yoshuawuyts/choo-model) - Experimental state management lib for choo.
 - [choo-resume](https://github.com/bengourley/choo-resume) - choo-resume + hot-rld = hot app reload in choo.
-- [choo-detached](https://github.com/graforlock/choo-detached) - Use `choo` as a mountable, simple stand alone component (no routing).
+- [choo-detached](https://github.com/graforlock/choo-detached) - Use `choo` as a mountable, simple stand-alone component (no routing).
 
 ### Elements
 
