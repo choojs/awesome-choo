@@ -82,8 +82,9 @@ Templates for [choo-cli](https://github.com/trainyard/choo-cli)
 
 - [trainyard/template-basic](https://github.com/trainyard/template-basic)
 - [haroenv/template-webpack](https://github.com/haroenv/template-webpack)
-- [graforlock/choo-bandwagon](https://github.com/graforlock/choo-bandwagon)
 
+Other CLI templates 
+- [graforlock/choo-bandwagon](https://github.com/graforlock/choo-bandwagon)
 
 ### Resources
 > :movie_camera: : videos
