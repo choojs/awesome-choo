@@ -68,6 +68,8 @@ under the hood:
 - [choo-model](https://github.com/yoshuawuyts/choo-model) - Experimental state management lib for choo.
 - [choo-resume](https://github.com/bengourley/choo-resume) - choo-resume + hot-rld = hot app reload in choo.
 - [choo-detached](https://github.com/graforlock/choo-detached) - Use `choo` as a mountable, simple stand-alone component (no routing).
+- [choo-service-worker](https://github.com/choojs/choo-service-worker) - Service worker loader for `choo`.
+- [choo-websocket](https://github.com/YerkoPalma/choo-websocket) - Small wraper around WebSocket browser API, for `choo` apps.
 
 ### Elements
 
