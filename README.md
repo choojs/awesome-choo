@@ -51,6 +51,7 @@ under the hood:
 - [Chatbot](http://chootbot.herokuapp.com) - ([repo](https://github.com/plaey/chatbot))
 - [chat-random](https://github.com/akiva/chat-random)
 - [choo-leaflet-demo](https://github.com/timwis/choo-leaflet-demo)
+- [choo-scriber](https://zhouhansen.github.io/choo-scriber) - ([repo](https://github.com/ZhouHansen/choo-scriber))
 
 ### Community
 
@@ -85,7 +86,7 @@ Templates for [choo-cli](https://github.com/trainyard/choo-cli)
 - [trainyard/template-basic](https://github.com/trainyard/template-basic)
 - [haroenv/template-webpack](https://github.com/haroenv/template-webpack)
 
-Other CLI templates 
+Other CLI templates
 - [graforlock/choo-bandwagon](https://github.com/graforlock/choo-bandwagon)
 
 ### Resources
