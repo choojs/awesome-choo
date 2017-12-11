@@ -85,6 +85,7 @@ Templates for [choo-cli](https://github.com/trainyard/choo-cli)
 
 - [trainyard/template-basic](https://github.com/trainyard/template-basic)
 - [haroenv/template-webpack](https://github.com/haroenv/template-webpack)
+- [simonwjackson/atomic-choo](https://github.com/simonwjackson/atomic-choo) - An opinionated project seed to get started developing with electron, webpack and choo.
 
 Other CLI templates
 - [graforlock/choo-bandwagon](https://github.com/graforlock/choo-bandwagon)
