@@ -117,6 +117,8 @@ Other CLI templates
 - [civicdr.org](https://github.com/CiviCDR/civicdr.org) - Website for [CiviCDR](https://civicdr.org/).
 - [nekocafe](https://github.com/notenoughneon/nekocafe) - Web chat room :cat: :speech_balloon:.
 - [Robotopia](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots!
+- [busca](https://github.com/afk-mcz/busca) - A small web-extension to search the current tab on reddit.
+
 
 ### License
 
