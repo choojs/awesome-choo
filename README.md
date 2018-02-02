@@ -118,7 +118,7 @@ Other CLI templates
 - [nekocafe](https://github.com/notenoughneon/nekocafe) - Web chat room :cat: :speech_balloon:.
 - [Robotopia](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots!
 - [busca](https://github.com/afk-mcz/busca) - A small web-extension to search the current tab on reddit.
-
+- [choo-ban](https://github.com/luizbaldi/choo-ban) - Simple kanban to manage board tasks, built with `choo`.
 
 ### License
 
