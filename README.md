@@ -62,7 +62,7 @@ under the hood:
 - [choo-location-electron](https://github.com/bcomnes/choo-location-electron) - Fix `choo`'s router in electron.
 - [choo-log](https://github.com/yoshuawuyts/choo-log) - Development logger for choo.
 - [choo-test](https://github.com/mantoni/choo-test) - Easy choo app unit testing.
-- [choo-persist](https://github.com/yoshuawuyts/choo-persist/) - Synchronize choo state with indexedDB.
+- [choo-persist](https://github.com/yoshuawuyts/choo-persist/) - Synchronize choo state with LocalStorage.
 - [choo-promise](https://github.com/rahatarmanahmed/choo-promise) - Use promises in effects and subscriptions.
 - [choo-pull](https://github.com/yoshuawuyts/choo-pull) - Wrap handlers to use pull-stream in a choo plugin.
 - [choo-redirect](https://github.com/yoshuawuyts/choo-redirect) - Redirect a view to another view.
