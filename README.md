@@ -71,6 +71,7 @@ under the hood:
 - [choo-detached](https://github.com/graforlock/choo-detached) - Use `choo` as a mountable, simple stand-alone component (no routing).
 - [choo-service-worker](https://github.com/choojs/choo-service-worker) - Service worker loader for `choo`.
 - [choo-websocket](https://github.com/YerkoPalma/choo-websocket) - Small wraper around WebSocket browser API, for `choo` apps.
+- [choo-store](https://github.com/ungoldman/choo-store) - Lightweight state structure for choo apps.
 
 ### Elements
 
@@ -120,6 +121,7 @@ Other CLI templates
 - [busca](https://github.com/afk-mcz/busca) - A small web-extension to search the current tab on reddit.
 - [choo-ban](https://github.com/luizbaldi/choo-ban) - Simple kanban to manage board tasks, built with `choo`.
 - [boowa](https://github.com/boowajs/boowa) - A fun blog generator, built with `choo`.
+- [hyperamp](https://github.com/hypermodules/hyperamp) - Humble music player.
 
 ### License
 
